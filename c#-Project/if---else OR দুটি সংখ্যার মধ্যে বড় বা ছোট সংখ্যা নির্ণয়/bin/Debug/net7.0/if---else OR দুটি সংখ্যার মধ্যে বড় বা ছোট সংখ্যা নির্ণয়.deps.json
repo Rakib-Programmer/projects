@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়/1.0.0": {
+        "runtime": {
+          "if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

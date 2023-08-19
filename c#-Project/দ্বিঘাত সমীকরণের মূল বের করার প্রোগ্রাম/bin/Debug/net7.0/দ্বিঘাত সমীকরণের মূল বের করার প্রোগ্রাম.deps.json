@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "দ্বিঘাত সমীকরণের মূল বের করার প্রোগ্রাম/1.0.0": {
+        "runtime": {
+          "দ্বিঘাত সমীকরণের মূল বের করার প্রোগ্রাম.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "দ্বিঘাত সমীকরণের মূল বের করার প্রোগ্রাম/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

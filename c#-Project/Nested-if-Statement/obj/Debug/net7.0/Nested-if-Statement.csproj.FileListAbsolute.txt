@@ -1,0 +1,15 @@
+F:\c#-Project\Nested-if-Statement\bin\Debug\net7.0\Nested-if-Statement.exe
+F:\c#-Project\Nested-if-Statement\bin\Debug\net7.0\Nested-if-Statement.deps.json
+F:\c#-Project\Nested-if-Statement\bin\Debug\net7.0\Nested-if-Statement.runtimeconfig.json
+F:\c#-Project\Nested-if-Statement\bin\Debug\net7.0\Nested-if-Statement.dll
+F:\c#-Project\Nested-if-Statement\bin\Debug\net7.0\Nested-if-Statement.pdb
+F:\c#-Project\Nested-if-Statement\obj\Debug\net7.0\Nested-if-Statement.csproj.AssemblyReference.cache
+F:\c#-Project\Nested-if-Statement\obj\Debug\net7.0\Nested-if-Statement.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#-Project\Nested-if-Statement\obj\Debug\net7.0\Nested-if-Statement.AssemblyInfoInputs.cache
+F:\c#-Project\Nested-if-Statement\obj\Debug\net7.0\Nested-if-Statement.AssemblyInfo.cs
+F:\c#-Project\Nested-if-Statement\obj\Debug\net7.0\Nested-if-Statement.csproj.CoreCompileInputs.cache
+F:\c#-Project\Nested-if-Statement\obj\Debug\net7.0\Nested-if-Statement.dll
+F:\c#-Project\Nested-if-Statement\obj\Debug\net7.0\refint\Nested-if-Statement.dll
+F:\c#-Project\Nested-if-Statement\obj\Debug\net7.0\Nested-if-Statement.pdb
+F:\c#-Project\Nested-if-Statement\obj\Debug\net7.0\Nested-if-Statement.genruntimeconfig.cache
+F:\c#-Project\Nested-if-Statement\obj\Debug\net7.0\ref\Nested-if-Statement.dll

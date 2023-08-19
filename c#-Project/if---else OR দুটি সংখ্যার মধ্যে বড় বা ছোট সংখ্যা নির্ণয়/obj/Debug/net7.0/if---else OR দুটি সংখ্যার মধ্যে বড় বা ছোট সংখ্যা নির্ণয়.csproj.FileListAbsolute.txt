@@ -1,0 +1,15 @@
+F:\c#-Project\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়\bin\Debug\net7.0\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়.exe
+F:\c#-Project\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়\bin\Debug\net7.0\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়.deps.json
+F:\c#-Project\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়\bin\Debug\net7.0\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়.runtimeconfig.json
+F:\c#-Project\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়\bin\Debug\net7.0\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়.dll
+F:\c#-Project\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়\bin\Debug\net7.0\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়.pdb
+F:\c#-Project\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়\obj\Debug\net7.0\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়.csproj.AssemblyReference.cache
+F:\c#-Project\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়\obj\Debug\net7.0\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#-Project\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়\obj\Debug\net7.0\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়.AssemblyInfoInputs.cache
+F:\c#-Project\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়\obj\Debug\net7.0\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়.AssemblyInfo.cs
+F:\c#-Project\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়\obj\Debug\net7.0\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়.csproj.CoreCompileInputs.cache
+F:\c#-Project\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়\obj\Debug\net7.0\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়.dll
+F:\c#-Project\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়\obj\Debug\net7.0\refint\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়.dll
+F:\c#-Project\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়\obj\Debug\net7.0\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়.pdb
+F:\c#-Project\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়\obj\Debug\net7.0\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়.genruntimeconfig.cache
+F:\c#-Project\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়\obj\Debug\net7.0\ref\if---else OR দুটি সংখ্যার মধ্যে বড় বা ছোট সংখ্যা নির্ণয়.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "৪) তিনটি সংখ্যা মাঝে বড়ছোট সংখ্যা বের করার প্রোগ্রাম/1.0.0": {
+        "runtime": {
+          "৪) তিনটি সংখ্যা মাঝে বড়ছোট সংখ্যা বের করার প্রোগ্রাম.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "৪) তিনটি সংখ্যা মাঝে বড়ছোট সংখ্যা বের করার প্রোগ্রাম/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

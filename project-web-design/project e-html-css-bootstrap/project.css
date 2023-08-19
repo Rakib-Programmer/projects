@@ -1,0 +1,224 @@
+
+.header{
+    background-image: url(images/background.png);
+    background-repeat: no-repeat;
+    height: 550px;
+}
+.first-row{
+    margin-top: 20px;
+}
+
+.sceond-row{
+    margin-top: 100PX;
+    margin-left: 100PX;
+}
+.sceond-row h2,.sceond-row-p{
+    color: white;
+}
+.sceond-row h2{
+    font-size: 32px;
+}
+.sceond-row p{
+    font-size: 20px;
+    font-family: lato;
+    color: white;
+}
+.order-now{
+    height: 60px;
+    width: 200px;
+    color: white;
+    background-color: #a4b9be;
+    display: inline-block;
+    font-size: 20px;
+    padding: 12px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.order-now:hover{
+    text-decoration: none;
+    color: white;
+}
+.start{
+    height: 400px;
+    padding-top: 80px;
+    margin-left: 100px
+}
+.start p{
+    text-align: center;
+    color: #9fa4a7;
+    font-size: 20px;
+    width: 88%
+}
+.start h2{
+    color: #535a5c;
+    font-size: 32px;
+    font-weight: bold;                                /*font-weight: bold */
+}
+
+.work{
+    height: 700px;
+    background-color: #a4b9be;
+    color: white;
+    padding-top: 50px;
+}
+.work h2{
+    font-size: 32px
+}
+.work p{
+    font-size: 20px;
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 20px
+}
+.work img{
+    height: 470px;
+    width: 870px;
+    margin: 5%
+}
+.price{
+    background-color: white;
+    height: 850px;
+}
+.price p{
+    color: #98a0a5;
+    font-size: 20px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.price h2{
+    font-size: 32px;
+     color: #535a5e;
+    padding-top: 50px
+}
+.price-table{
+    width: 30%;
+    margin-top: 50px;
+    margin-right: 3%;
+    float: left;
+}
+.price-table li{
+    height: 75px;
+    color: #535a5c;
+    padding-top: 15px;
+    font-size: 18px;
+    background-color: #e9eef2;
+}
+.price-table li:first-child{
+    color: white;
+    font-size: 30px;
+    border-radius: 10px 10px 0 0;
+}
+.price-table li:nth-child(2);{
+    font-weight: bold;
+}
+.free :first-child{
+    background-color: #535a5e;
+}
+
+.Professional :first-child{
+    background-color: #58ad52;
+}
+.Enterprise :first-child{
+    background-color: #53a1ad;
+}
+.price-table-btn{
+    width: 100%;
+    height: 60px;
+    padding-top: 15px;
+    text-align: center;
+    background-color: #535a5e;
+    display: inline-block;
+    border-radius: 5px;
+    color: white
+}
+.price-table-btn:hover{
+    color: white;
+    text-decoration: none;
+}
+.contact{
+    background-color: #2d3035;
+    height: 730px;
+    padding-top: 50px;
+}
+.contact h2{
+    color: white;
+}
+.contact p{
+    color: #98a0a5;
+   font-size: 20px;
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 20px;
+    padding-left: 75px
+}
+.form-input{
+    width: 100%;
+    border: 2px solid white;
+    background-color: #2d3035;
+    margin-top: 20px;
+    height: 55px;
+    padding-left: 20px;
+    font-weight: bold;
+    font-size: 15px;
+    color: white;
+}
+.textarea{
+    height: 110px;
+    padding: 20px;
+    color: white
+}
+.send-btn{
+    background-color: #a4b9be;
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    border: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+.icon{
+    padding-top: 20PX;
+    padding-left: 145px
+}
+.footer{
+     height: 115px;
+    padding-top: 50px;
+    margin-left: 100px;
+    text-align: center;
+}
+.navbar-footer li{
+    color: black;
+}
+.navbar-footer li a{
+    color: black;
+    font-weight: bold;
+    
+}
+@media all and (max-width:767px){
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

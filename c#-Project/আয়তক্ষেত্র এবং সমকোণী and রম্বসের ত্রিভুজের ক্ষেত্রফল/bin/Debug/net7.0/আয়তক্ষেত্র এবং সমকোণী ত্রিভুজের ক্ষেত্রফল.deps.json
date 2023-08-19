@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "আয়তক্ষেত্র এবং সমকোণী ত্রিভুজের ক্ষেত্রফল/1.0.0": {
+        "runtime": {
+          "আয়তক্ষেত্র এবং সমকোণী ত্রিভুজের ক্ষেত্রফল.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "আয়তক্ষেত্র এবং সমকোণী ত্রিভুজের ক্ষেত্রফল/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = N_একটি_সংখ্যা__দুটি_সংখ্যার_মধ্যে_জোর_বিজোড়_তা_নির্ণয়
+build_property.ProjectDir = f:\c#-Project\3) N একটি সংখ্যা  দুটি সংখ্যার মধ্যে জোর বিজোড় তা নির্ণয়\

@@ -1,0 +1,30 @@
+F:\c#-Project\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\bin\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.exe
+F:\c#-Project\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\bin\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.deps.json
+F:\c#-Project\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\bin\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.runtimeconfig.json
+F:\c#-Project\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\bin\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.dll
+F:\c#-Project\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\bin\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.pdb
+F:\c#-Project\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\obj\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.csproj.AssemblyReference.cache
+F:\c#-Project\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\obj\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#-Project\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\obj\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.AssemblyInfoInputs.cache
+F:\c#-Project\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\obj\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.AssemblyInfo.cs
+F:\c#-Project\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\obj\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.csproj.CoreCompileInputs.cache
+F:\c#-Project\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\obj\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.dll
+F:\c#-Project\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\obj\Debug\net7.0\refint\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.dll
+F:\c#-Project\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\obj\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.pdb
+F:\c#-Project\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\obj\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.genruntimeconfig.cache
+F:\c#-Project\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\obj\Debug\net7.0\ref\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.dll
+F:\c#-Project\1 দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\bin\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.exe
+F:\c#-Project\1 দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\bin\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.deps.json
+F:\c#-Project\1 দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\bin\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.runtimeconfig.json
+F:\c#-Project\1 দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\bin\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.dll
+F:\c#-Project\1 দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\bin\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.pdb
+F:\c#-Project\1 দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\obj\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.csproj.AssemblyReference.cache
+F:\c#-Project\1 দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\obj\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#-Project\1 দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\obj\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.AssemblyInfoInputs.cache
+F:\c#-Project\1 দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\obj\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.AssemblyInfo.cs
+F:\c#-Project\1 দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\obj\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.csproj.CoreCompileInputs.cache
+F:\c#-Project\1 দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\obj\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.dll
+F:\c#-Project\1 দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\obj\Debug\net7.0\refint\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.dll
+F:\c#-Project\1 দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\obj\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.pdb
+F:\c#-Project\1 দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\obj\Debug\net7.0\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.genruntimeconfig.cache
+F:\c#-Project\1 দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ\obj\Debug\net7.0\ref\দুটি সংখ্যার যোগ বিয়োগ গুন ভাগ.dll

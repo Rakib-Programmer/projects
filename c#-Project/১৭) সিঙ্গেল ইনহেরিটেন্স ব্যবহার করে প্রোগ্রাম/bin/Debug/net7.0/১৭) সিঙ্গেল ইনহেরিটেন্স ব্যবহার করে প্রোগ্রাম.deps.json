@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "১৭) সিঙ্গেল ইনহেরিটেন্স ব্যবহার করে প্রোগ্রাম/1.0.0": {
+        "runtime": {
+          "১৭) সিঙ্গেল ইনহেরিটেন্স ব্যবহার করে প্রোগ্রাম.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "১৭) সিঙ্গেল ইনহেরিটেন্স ব্যবহার করে প্রোগ্রাম/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

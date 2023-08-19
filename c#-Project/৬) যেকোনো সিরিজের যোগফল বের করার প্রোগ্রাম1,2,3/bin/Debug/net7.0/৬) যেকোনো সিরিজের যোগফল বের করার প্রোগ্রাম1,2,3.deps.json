@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "৬) যেকোনো সিরিজের যোগফল বের করার প্রোগ্রাম1,2,3/1.0.0": {
+        "runtime": {
+          "৬) যেকোনো সিরিজের যোগফল বের করার প্রোগ্রাম1,2,3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "৬) যেকোনো সিরিজের যোগফল বের করার প্রোগ্রাম1,2,3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

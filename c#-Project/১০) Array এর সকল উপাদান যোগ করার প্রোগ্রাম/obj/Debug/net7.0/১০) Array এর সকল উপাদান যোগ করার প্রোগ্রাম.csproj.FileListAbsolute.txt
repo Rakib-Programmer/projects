@@ -1,0 +1,15 @@
+F:\c#-Project\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম\bin\Debug\net7.0\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম.exe
+F:\c#-Project\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম\bin\Debug\net7.0\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম.deps.json
+F:\c#-Project\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম\bin\Debug\net7.0\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম.runtimeconfig.json
+F:\c#-Project\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম\bin\Debug\net7.0\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম.dll
+F:\c#-Project\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম\bin\Debug\net7.0\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম.pdb
+F:\c#-Project\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম\obj\Debug\net7.0\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম.csproj.AssemblyReference.cache
+F:\c#-Project\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম\obj\Debug\net7.0\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#-Project\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম\obj\Debug\net7.0\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম.AssemblyInfoInputs.cache
+F:\c#-Project\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম\obj\Debug\net7.0\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম.AssemblyInfo.cs
+F:\c#-Project\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম\obj\Debug\net7.0\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম.csproj.CoreCompileInputs.cache
+F:\c#-Project\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম\obj\Debug\net7.0\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম.dll
+F:\c#-Project\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম\obj\Debug\net7.0\refint\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম.dll
+F:\c#-Project\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম\obj\Debug\net7.0\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম.pdb
+F:\c#-Project\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম\obj\Debug\net7.0\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম.genruntimeconfig.cache
+F:\c#-Project\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম\obj\Debug\net7.0\ref\১০) Array এর সকল উপাদান যোগ করার প্রোগ্রাম.dll

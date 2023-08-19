@@ -1,0 +1,15 @@
+F:\c#-Project\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI\obj\Debug\net7.0\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI.csproj.AssemblyReference.cache
+F:\c#-Project\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI\obj\Debug\net7.0\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#-Project\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI\obj\Debug\net7.0\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI.AssemblyInfoInputs.cache
+F:\c#-Project\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI\obj\Debug\net7.0\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI.AssemblyInfo.cs
+F:\c#-Project\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI\obj\Debug\net7.0\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI.csproj.CoreCompileInputs.cache
+F:\c#-Project\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI\bin\Debug\net7.0\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI.exe
+F:\c#-Project\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI\bin\Debug\net7.0\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI.deps.json
+F:\c#-Project\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI\bin\Debug\net7.0\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI.runtimeconfig.json
+F:\c#-Project\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI\bin\Debug\net7.0\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI.dll
+F:\c#-Project\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI\bin\Debug\net7.0\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI.pdb
+F:\c#-Project\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI\obj\Debug\net7.0\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI.dll
+F:\c#-Project\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI\obj\Debug\net7.0\refint\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI.dll
+F:\c#-Project\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI\obj\Debug\net7.0\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI.pdb
+F:\c#-Project\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI\obj\Debug\net7.0\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI.genruntimeconfig.cache
+F:\c#-Project\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI\obj\Debug\net7.0\ref\১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI.dll

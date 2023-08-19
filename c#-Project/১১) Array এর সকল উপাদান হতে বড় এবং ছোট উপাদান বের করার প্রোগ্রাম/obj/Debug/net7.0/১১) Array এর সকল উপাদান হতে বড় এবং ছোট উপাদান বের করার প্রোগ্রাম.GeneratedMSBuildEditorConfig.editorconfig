@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _১১__Array_এর_সকল_উপাদান_হতে_বড়_এবং_ছোট_উপাদান_বের_করার_প্রোগ্রাম
+build_property.ProjectDir = f:\c#-Project\১১) Array এর সকল উপাদান হতে বড় এবং ছোট উপাদান বের করার প্রোগ্রাম\

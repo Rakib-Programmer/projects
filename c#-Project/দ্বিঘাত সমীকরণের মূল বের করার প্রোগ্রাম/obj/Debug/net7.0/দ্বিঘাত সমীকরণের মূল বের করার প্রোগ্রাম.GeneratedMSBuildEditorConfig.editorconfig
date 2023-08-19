@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = দ্বিঘাত_সমীকরণের_মূল_বের_করার_প্রোগ্রাম
+build_property.ProjectDir = f:\c#-Project\দ্বিঘাত সমীকরণের মূল বের করার প্রোগ্রাম\

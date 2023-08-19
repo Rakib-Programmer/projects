@@ -1,0 +1,15 @@
+F:\c#-Project\বৃত্ত ক্ষেত্রফল\obj\Debug\net7.0\বৃত্ত ক্ষেত্রফল.csproj.AssemblyReference.cache
+F:\c#-Project\বৃত্ত ক্ষেত্রফল\obj\Debug\net7.0\বৃত্ত ক্ষেত্রফল.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#-Project\বৃত্ত ক্ষেত্রফল\obj\Debug\net7.0\বৃত্ত ক্ষেত্রফল.AssemblyInfoInputs.cache
+F:\c#-Project\বৃত্ত ক্ষেত্রফল\obj\Debug\net7.0\বৃত্ত ক্ষেত্রফল.AssemblyInfo.cs
+F:\c#-Project\বৃত্ত ক্ষেত্রফল\obj\Debug\net7.0\বৃত্ত ক্ষেত্রফল.csproj.CoreCompileInputs.cache
+F:\c#-Project\বৃত্ত ক্ষেত্রফল\bin\Debug\net7.0\বৃত্ত ক্ষেত্রফল.exe
+F:\c#-Project\বৃত্ত ক্ষেত্রফল\bin\Debug\net7.0\বৃত্ত ক্ষেত্রফল.deps.json
+F:\c#-Project\বৃত্ত ক্ষেত্রফল\bin\Debug\net7.0\বৃত্ত ক্ষেত্রফল.runtimeconfig.json
+F:\c#-Project\বৃত্ত ক্ষেত্রফল\bin\Debug\net7.0\বৃত্ত ক্ষেত্রফল.dll
+F:\c#-Project\বৃত্ত ক্ষেত্রফল\bin\Debug\net7.0\বৃত্ত ক্ষেত্রফল.pdb
+F:\c#-Project\বৃত্ত ক্ষেত্রফল\obj\Debug\net7.0\বৃত্ত ক্ষেত্রফল.dll
+F:\c#-Project\বৃত্ত ক্ষেত্রফল\obj\Debug\net7.0\refint\বৃত্ত ক্ষেত্রফল.dll
+F:\c#-Project\বৃত্ত ক্ষেত্রফল\obj\Debug\net7.0\বৃত্ত ক্ষেত্রফল.pdb
+F:\c#-Project\বৃত্ত ক্ষেত্রফল\obj\Debug\net7.0\বৃত্ত ক্ষেত্রফল.genruntimeconfig.cache
+F:\c#-Project\বৃত্ত ক্ষেত্রফল\obj\Debug\net7.0\ref\বৃত্ত ক্ষেত্রফল.dll

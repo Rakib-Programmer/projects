@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI/1.0.0": {
+        "runtime": {
+          "১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "১৪) কনস্ট্রাক্টর মেথড ব্যবহার করে প্রোগ্রাম VVI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+F:\c#-Project\5,5-Switch-statement\bin\Debug\net7.0\Switch-statement.exe
+F:\c#-Project\5,5-Switch-statement\bin\Debug\net7.0\Switch-statement.deps.json
+F:\c#-Project\5,5-Switch-statement\bin\Debug\net7.0\Switch-statement.runtimeconfig.json
+F:\c#-Project\5,5-Switch-statement\bin\Debug\net7.0\Switch-statement.dll
+F:\c#-Project\5,5-Switch-statement\bin\Debug\net7.0\Switch-statement.pdb
+F:\c#-Project\5,5-Switch-statement\obj\Debug\net7.0\Switch-statement.csproj.AssemblyReference.cache
+F:\c#-Project\5,5-Switch-statement\obj\Debug\net7.0\Switch-statement.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#-Project\5,5-Switch-statement\obj\Debug\net7.0\Switch-statement.AssemblyInfoInputs.cache
+F:\c#-Project\5,5-Switch-statement\obj\Debug\net7.0\Switch-statement.AssemblyInfo.cs
+F:\c#-Project\5,5-Switch-statement\obj\Debug\net7.0\Switch-statement.csproj.CoreCompileInputs.cache
+F:\c#-Project\5,5-Switch-statement\obj\Debug\net7.0\Switch-statement.dll
+F:\c#-Project\5,5-Switch-statement\obj\Debug\net7.0\refint\Switch-statement.dll
+F:\c#-Project\5,5-Switch-statement\obj\Debug\net7.0\Switch-statement.pdb
+F:\c#-Project\5,5-Switch-statement\obj\Debug\net7.0\Switch-statement.genruntimeconfig.cache
+F:\c#-Project\5,5-Switch-statement\obj\Debug\net7.0\ref\Switch-statement.dll

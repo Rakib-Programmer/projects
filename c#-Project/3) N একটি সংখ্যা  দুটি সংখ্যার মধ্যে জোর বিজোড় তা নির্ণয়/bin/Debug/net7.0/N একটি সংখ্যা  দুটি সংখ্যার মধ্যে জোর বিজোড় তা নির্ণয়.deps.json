@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "N একটি সংখ্যা  দুটি সংখ্যার মধ্যে জোর বিজোড় তা নির্ণয়/1.0.0": {
+        "runtime": {
+          "N একটি সংখ্যা  দুটি সংখ্যার মধ্যে জোর বিজোড় তা নির্ণয়.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "N একটি সংখ্যা  দুটি সংখ্যার মধ্যে জোর বিজোড় তা নির্ণয়/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

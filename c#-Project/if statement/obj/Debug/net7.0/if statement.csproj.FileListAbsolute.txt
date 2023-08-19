@@ -1,0 +1,15 @@
+F:\c#-Project\if statement\bin\Debug\net7.0\if statement.exe
+F:\c#-Project\if statement\bin\Debug\net7.0\if statement.deps.json
+F:\c#-Project\if statement\bin\Debug\net7.0\if statement.runtimeconfig.json
+F:\c#-Project\if statement\bin\Debug\net7.0\if statement.dll
+F:\c#-Project\if statement\bin\Debug\net7.0\if statement.pdb
+F:\c#-Project\if statement\obj\Debug\net7.0\if statement.csproj.AssemblyReference.cache
+F:\c#-Project\if statement\obj\Debug\net7.0\if statement.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#-Project\if statement\obj\Debug\net7.0\if statement.AssemblyInfoInputs.cache
+F:\c#-Project\if statement\obj\Debug\net7.0\if statement.AssemblyInfo.cs
+F:\c#-Project\if statement\obj\Debug\net7.0\if statement.csproj.CoreCompileInputs.cache
+F:\c#-Project\if statement\obj\Debug\net7.0\if statement.dll
+F:\c#-Project\if statement\obj\Debug\net7.0\refint\if statement.dll
+F:\c#-Project\if statement\obj\Debug\net7.0\if statement.pdb
+F:\c#-Project\if statement\obj\Debug\net7.0\if statement.genruntimeconfig.cache
+F:\c#-Project\if statement\obj\Debug\net7.0\ref\if statement.dll

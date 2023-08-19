@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "বৃত্ত ক্ষেত্রফল/1.0.0": {
+        "runtime": {
+          "বৃত্ত ক্ষেত্রফল.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "বৃত্ত ক্ষেত্রফল/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

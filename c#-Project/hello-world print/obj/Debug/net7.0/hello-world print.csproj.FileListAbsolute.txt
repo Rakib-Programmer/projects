@@ -1,0 +1,15 @@
+F:\c#-Project\hello-world print\bin\Debug\net7.0\hello-world print.exe
+F:\c#-Project\hello-world print\bin\Debug\net7.0\hello-world print.deps.json
+F:\c#-Project\hello-world print\bin\Debug\net7.0\hello-world print.runtimeconfig.json
+F:\c#-Project\hello-world print\bin\Debug\net7.0\hello-world print.dll
+F:\c#-Project\hello-world print\bin\Debug\net7.0\hello-world print.pdb
+F:\c#-Project\hello-world print\obj\Debug\net7.0\hello-world print.csproj.AssemblyReference.cache
+F:\c#-Project\hello-world print\obj\Debug\net7.0\hello-world print.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#-Project\hello-world print\obj\Debug\net7.0\hello-world print.AssemblyInfoInputs.cache
+F:\c#-Project\hello-world print\obj\Debug\net7.0\hello-world print.AssemblyInfo.cs
+F:\c#-Project\hello-world print\obj\Debug\net7.0\hello-world print.csproj.CoreCompileInputs.cache
+F:\c#-Project\hello-world print\obj\Debug\net7.0\hello-world print.dll
+F:\c#-Project\hello-world print\obj\Debug\net7.0\refint\hello-world print.dll
+F:\c#-Project\hello-world print\obj\Debug\net7.0\hello-world print.pdb
+F:\c#-Project\hello-world print\obj\Debug\net7.0\hello-world print.genruntimeconfig.cache
+F:\c#-Project\hello-world print\obj\Debug\net7.0\ref\hello-world print.dll
